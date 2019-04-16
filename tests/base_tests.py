@@ -1,5 +1,5 @@
 from unittest import TestCase
-from validator import Validator
+from validation.validator import Validator
 
 
 class AppBaseTest(TestCase):

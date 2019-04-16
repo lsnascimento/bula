@@ -5,10 +5,12 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='dokr',
-    version='0.1',
+    version='0.0.1',
     scripts=['dokr'],
     author="Leonardo Nascimento",
     author_email="lnascimento1988@gmail.com",
+    maintainer='Leonardo',
+    license='Apache Softawre License',
     description="A validation utils package",
     long_description=long_description,
     long_description_content_type="text/markdown",

@@ -1,5 +1,5 @@
-from base_tests import AppBaseTest
-from schema import schema_name
+from tests.base_tests import AppBaseTest
+from validation.schema import schema_name
 
 
 class TestNumbers(AppBaseTest):
