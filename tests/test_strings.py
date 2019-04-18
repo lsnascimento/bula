@@ -1,5 +1,5 @@
 from tests.base_tests import AppBaseTest
-from validation.schema import schema_name
+from bula.schema import schema_name
 
 
 class TestStrings(AppBaseTest):
