@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='bula_validation',
-    version='0.0.2',
+    name='bula-validator',
+    version='0.0.1',
     author="Leonardo Nascimento",
     author_email="lnascimento1988@gmail.com",
     maintainer='Leonardo',
